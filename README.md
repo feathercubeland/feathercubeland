@@ -1,58 +1,69 @@
 # FeatherCubeLand - Minecraft PE Lifesteal & Survival Server
 
-Welcome to **FeatherCubeLand**, a unique Minecraft PE server blending the thrill of **Lifesteal mechanics** with the adventure of **Survival gameplay**. Whether you're a PvP warrior or a peaceful builder, FeatherCubeLand offers an immersive experience for everyone!
+Welcome to **FeatherCubeLand**, a feature-rich Minecraft PE server combining the intense gameplay of **Lifesteal PvP** with classic **Survival mechanics**. Dive into a world where every fight matters and every player has a chance to rise!
 
 ## Features
 
-- **Lifesteal System**  
-  Gain hearts by eliminating other players and dominate the battlefield!
+- **Lifesteal Mechanics**  
+  Gain health by defeating other players. Lose hearts on death. Will you thrive or fall?
 
-- **Classic Survival**  
-  Mine, craft, build, and explore in a rich survival world.
-
-- **Custom Plugins**  
-  Enjoy exclusive features and mechanics developed just for FeatherCubeLand.
+- **Survival World**  
+  Explore, build, mine, and survive in a fair, challenging survival environment.
 
 - **PvP Arenas & Events**  
-  Fight your way to the top in thrilling events and PvP zones.
+  Fight in custom arenas and join regular events to win rewards and glory.
 
-- **Active Community**  
-  A growing, friendly player base and supportive staff team.
+- **Custom Plugins**  
+  Our server uses custom-made plugins tailored for a unique experience.
 
-## Server Information
+- **Community-Based**  
+  Friendly staff, active players, and a growing Discord community.
 
-- **IP:** `play.feathercubeland.com`  
-- **Port:** `19132`  
-- **Version:** Minecraft PE 0.15.10 (PocketMine-MP)  
+## Server Info
+
+- **IP:** `feathercubelands.ddns.net`
+- **Port:** `19132`
+- **Version:** Minecraft PE 0.15.10 (PocketMine-MP)
 - **Status:** Online 24/7
 
 ## How to Join
 
-1. Open **Minecraft Pocket Edition**.
-2. Click **Play > Servers > Add Server**.
-3. Enter the server name: `FeatherCubeLand`
-4. IP Address: `play.feathercubeland.com`
+1. Open **Minecraft PE**.
+2. Tap **Play > Servers > Add Server**.
+3. Name: `FeatherCubeLand`
+4. Server Address: `feathercubelands.ddns.net`
 5. Port: `19132`
-6. Save and tap to join!
+6. Save and Join!
 
-## Screenshots
+## Community & Links
 
-*(Add your screenshots here! Show off your spawn, PvP arena, survival builds, etc.)*
-
-## Community Links
-
-- **Discord:** [Join our Discord](https://discord.gg/YOUR-DISCORD)
-- **Website:** [Visit FeatherCubeLand](https://yourwebsite.com)
-- **Vote:** [Vote and earn rewards](https://yourwebsite.com/vote)
+- **Discord:** [Join Here](https://discord.gg/T88neQe8dd)
+- **Website:** [FeatherCubeLand GitHub Page](https://feathercubeland.github.io)
 
 ## Contributing
 
-This repository contains server configuration files, plugin source code (if public), and update logs. Feel free to open issues or pull requests if you want to contribute or report bugs.
+This repository is **open source** and contains files for the official FeatherCubeLand website.
+
+We may also release the server's **plugin pack** to the public if the server shuts down in the future.
+
+Feel free to fork this repo or open issues/pull requests to contribute to the website. If you use anything from this repository (code, design, or structure), please **credit FeatherCubeLand**.
 
 ## License
 
-This project is open for learning and personal use. Please credit FeatherCubeLand if you use any part of our work.
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+**You are free to:**
+
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material for any purpose
+
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit to **FeatherCubeLand**, provide a link to the license, and indicate if changes were made.  
+- You may do so in any reasonable manner, but not in any way that suggests FeatherCubeLand endorses you or your use.
+
+[Read the full license](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-**Join FeatherCubeLand – Survive, Fight, Conquer!**
+**Survive. Fight. Dominate. Welcome to FeatherCubeLand!**
