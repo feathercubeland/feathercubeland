@@ -1,4 +1,4 @@
-# FeatherCubeLand - Minecraft PE Lifesteal & Survival Server
+# FeatherCubeLand - Lifesteal & Survival Server
 
 Welcome to **FeatherCubeLand**, a feature-rich Minecraft PE server combining the intense gameplay of **Lifesteal PvP** with classic **Survival mechanics**. Dive into a world where every fight matters and every player has a chance to rise!
 
@@ -23,12 +23,12 @@ Welcome to **FeatherCubeLand**, a feature-rich Minecraft PE server combining the
 
 - **IP:** `feathercubelands.ddns.net`
 - **Port:** `19132`
-- **Version:** Minecraft PE 0.15.10 (PocketMine-MP)
+- **Version:** 0.14.3x0.15.10
 - **Status:** Online 24/7
 
 ## How to Join
 
-1. Open **Minecraft PE**.
+1. Open **Craftsman**.
 2. Tap **Play > Servers > Add Server**.
 3. Name: `FeatherCubeLand`
 4. Server Address: `feathercubelands.ddns.net`
